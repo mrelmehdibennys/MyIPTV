@@ -1,0 +1,30 @@
+name: Generate Playlist
+
+on:
+  push:
+    paths:
+      - 'lists/**' # أي تعديل فالقنوات غايشعل الضو
+  workflow_dispatch: # زر يدوي
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Run Script
+        run: python make_playlist.py
+
+      - name: Save Result
+        run: |
+          git config --global user.name "Auto-Bot"
+          git config --global user.email "bot@github.com"
+          git add playlist.m3u8 playlists/
+          git commit -m "Update channels" || echo "No changes"
+          git push
