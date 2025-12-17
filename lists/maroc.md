@@ -1,8 +1,6 @@
-# Morocco Channels
+# Test Channels
 
 | No | Name | URL | Logo | EPG ID |
 | --- | --- | --- | --- | --- |
-| 1 | Al Aoula | [>](https://m3u.ganool.com/snrt-live.hns.net/hls/alaoula_inter/index.m3u8) | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/SNRT_Al_Aoula.png"> | AlAoula.ma |
-| 2 | Arryadia | [>](https://m3u.ganool.com/snrt-live.hns.net/hls/arryadia_tnt/index.m3u8) | <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Arryadia_TV_logo.png"> | Arryadia.ma |
-| 3 | 2M Monde | [>](https://m3u.ganool.com/e775f048d08c5c2d.mediapackage.eu-west-3.amazonaws.com/out/v1/45089f81df664360a719c8f85f18731f/index.m3u8) | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/2M_TV.png"> | 2M.ma |
-| 4 | Al Maghribia | [>](https://m3u.ganool.com/snrt-live.hns.net/hls/almaghribia/index.m3u8) | <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Al_Maghribia_TV_logo.png"> | AlMaghribia.ma |
+| 1 | Al Jazeera | [>](https://live-hls-web-aja.getaj.net/AJA/03.m3u8) | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Al_Jazeera_Arabic_Logo.svg"> | AlJazeera.net |
+| 2 | Medi 1 TV | [>](https://d2ojp40tfmqi2c.cloudfront.net/out/v1/f47d9282747345638706d4e8c31e4593/index.m3u8) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Medi1_TV.png"> | Medi1TV.ma |
