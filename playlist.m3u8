@@ -1,8 +1,10 @@
 #EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-name="2M Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/2M_TV.png" group-title="Maroc",2M Monde
+https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-HLS8/2mmaroc.m3u8
+#EXTINF:-1 tvg-name="Al Maghribia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Al_Maghribia_TV_logo.png" group-title="Maroc",Al Maghribia
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
 #EXTINF:-1 tvg-name="Medi 1 TV Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Medi1_TV.png" group-title="Maroc",Medi 1 TV Arabic
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8
-#EXTINF:-1 tvg-name="Medi 1 TV Maghreb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Medi1_TV.png" group-title="Maroc",Medi 1 TV Maghreb
-https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8
 #EXTINF:-1 tvg-name="Chada TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Chada_TV_Logo.png" group-title="Maroc",Chada TV
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Story Channel" tvg-logo="https://i.imgur.com/kS9T1lW.png" group-title="Maroc",Story Channel
