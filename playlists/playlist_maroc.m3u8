@@ -1,9 +1,5 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-name="Al Aoula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/SNRT_Al_Aoula.png" tvg-id="AlAoula.ma" group-title="Maroc",Al Aoula
-https://m3u.ganool.com/snrt-live.hns.net/hls/alaoula_inter/index.m3u8
-#EXTINF:-1 tvg-name="Arryadia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Arryadia_TV_logo.png" tvg-id="Arryadia.ma" group-title="Maroc",Arryadia
-https://m3u.ganool.com/snrt-live.hns.net/hls/arryadia_tnt/index.m3u8
-#EXTINF:-1 tvg-name="2M Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/2M_TV.png" tvg-id="2M.ma" group-title="Maroc",2M Monde
-https://m3u.ganool.com/e775f048d08c5c2d.mediapackage.eu-west-3.amazonaws.com/out/v1/45089f81df664360a719c8f85f18731f/index.m3u8
-#EXTINF:-1 tvg-name="Al Maghribia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Al_Maghribia_TV_logo.png" tvg-id="AlMaghribia.ma" group-title="Maroc",Al Maghribia
-https://m3u.ganool.com/snrt-live.hns.net/hls/almaghribia/index.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Al_Jazeera_Arabic_Logo.svg" tvg-id="AlJazeera.net" group-title="Maroc",Al Jazeera
+https://live-hls-web-aja.getaj.net/AJA/03.m3u8
+#EXTINF:-1 tvg-name="Medi 1 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Medi1_TV.png" tvg-id="Medi1TV.ma" group-title="Maroc",Medi 1 TV
+https://d2ojp40tfmqi2c.cloudfront.net/out/v1/f47d9282747345638706d4e8c31e4593/index.m3u8
