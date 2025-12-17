@@ -1,7 +1,23 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-name="2M Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/2M_TV.png" group-title="Maroc",2M Monde
+#EXTINF:-1 tvg-name="2M Monde (HQ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/2M_TV.png" group-title="Maroc",2M Monde (HQ)
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1 tvg-name="Medi 1 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Medi1_TV.png" group-title="Maroc",Medi 1 TV
+#EXTINF:-1 tvg-name="Arryadia TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Arryadia_TV_logo.png" group-title="Maroc",Arryadia TNT
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Al Aoula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/SNRT_Al_Aoula.png" group-title="Maroc",Al Aoula
+https://m3u.ganool.com/snrt-live.hns.net/hls/alaoula_inter/index.m3u8
+#EXTINF:-1 tvg-name="Tamazight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Tamazight_TV_logo.png" group-title="Maroc",Tamazight
+https://cdn.live.easybroadcast.io/abr_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Assadissa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Assadissa_TV_logo.png" group-title="Maroc",Assadissa
+https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Arrabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Arrabia_TV_logo.png" group-title="Maroc",Arrabia
+https://cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Medi 1 TV Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Medi1_TV.png" group-title="Maroc",Medi 1 TV Arabic
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8
+#EXTINF:-1 tvg-name="Medi 1 TV Maghreb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Medi1_TV.png" group-title="Maroc",Medi 1 TV Maghreb
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8
 #EXTINF:-1 tvg-name="Chada TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Chada_TV_Logo.png" group-title="Maroc",Chada TV
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Story Channel" tvg-logo="https://i.imgur.com/kS9T1lW.png" group-title="Maroc",Story Channel
+https://136044159.r.cdnsun.net/storychannel.m3u8
+#EXTINF:-1 tvg-name="M24 (MAP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/M24_TV_Logo.png" group-title="Maroc",M24 (MAP)
+https://cdn.live.easybroadcast.io/abr_corp/73_m24_789456/playlist_dvr.m3u8
